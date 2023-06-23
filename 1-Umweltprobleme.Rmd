@@ -1,0 +1,87 @@
+---"
+author: ""
+date: ""
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### von Robert Cline
+UNM 100684786  
+F&uuml;r:  Deutsche Sommerschule von New Mexico - Sprachkurs B2    
+Lehrer:  Jason Wilby
+F&auml;llig:  23.06.2023 
+
+
+## Umweltprobleme
+
+
+## Definition von 3 der 5 Umweltproblemen ^[die Fleischindustrie; Die Abholzung; Die Eisschmelze; Die Insdustrieverschmutzng; Der Atomm&uuml;ll]
+
+* Bescrheibung  
+* Welches Problem ist am gavierrendsten?  
+* Welches Problem f&auml;ndte ich du gern erforschen?  (Einen Absatst dar&uuml;uber)
+
+
+
+Die Umwelt der Welt ist mit viele Probleme der Umwelt bedroht.  
+
+### Die Flieshindustrie
+
+Die Fleischindustrie schädigt unsere Umwelt durch Pflanzenfressernden Tieren und die Benutzung des Düngemittels. Ein Großteil des Fleisches auf unserem Tisch stammt von Pflanzenfressern. Pflanzenfresser produzieren beim Verdauen ihrer Nahrung Methan. Methan ist ein sehr wichtiges Treibhausgas. Die Warmungpotential eines Gasses ist z.B bei Globales Erwärmungspotenzial d.h Globales Wärmepotenzial (GWP) gemessert. Das GWP ist eine *Messgröße* des Erwärmungspotenzials im Vergleich zu CO2.  
+
+Methan wärmt die Atmosphäre vielfach mehr als CO2; in GWP Methan ist 28 bis 36 &uuml;ber ein hunderten Jahren Zeitreferenz. Über einen Zeitraum von 100 Jahren erwärmt Methan die Atmosphäre 28 bis 36 Mal mehr als CO2.
+
+Tieren brauchen auch Futter.  Düngemittel werden für Futterproduktion gebraucht und die auch bedeutende Treibhausgasse produzieren.  .  
+
+### Die Eisschmelze  
+
+Die Eis der Erde ist eine gro&szlig;e Wärmesenke.  Zum Beispiel dauert es 334 Joule pro Gramm, um ein Gramm Eis zu schmelzen. Es dauert 1 Joule pro Gramm, um ein Gramm Luft um ein Grad Celsius zu erwärmen.  Der Albedo-Effekt reflektiert Wärme von der Sonne in den Weltraum. Was passiert wann das Eis hat verschwindet?  Die Erwärmungsrate wird sich noch weiter beschleunigen.
+
+
+### Der Atomm&uuml;ll  
+
+Atomkraftwerke sind gefährliche Energieressourcen wegen strahlung und auch vom Atomm&uuml;ll. Es hat weltweit viele Atomunfälle gegeben. Der Gefahr vom Atomm&uuml;ll hat nicht so Gefahrlich wie die Gefahr von Atomunfälle.
+
+### Eisschmelze: Das hei&szlig;t Die gravierendsten Umweltproblem
+
+Meiner Meinung nach ist die Eisschmelze die gro&szlig;este Gefahr der funf gegebene Probleme und ich w&uuml;rde gern die Eisschmelze Problem erforschen.  Ich habe in den vorherigen Absätzen über einige Gesprächspunkte geschrieben. Aber es gibt viel mehr da&szlig; wir dar&uuml;ber schreiben k&ouml;nnten.  
+
+
+### Wortschatz f&uuml;r heute  
+
+die Atomkraftwerk, -e *nuclear power plant*
+die Aussterben *extinction*  
+die Bodensch&auml;tze *natural resources*  
+das Gift *poisen*  
+die Klimaerw&auml;rmung, -en  *global warming*  
+die Naturkatastrophe, -n *natural disaster*  
+die &Ouml;kologie *ecology*  
+die Umweltschutz *environmental conservation*  
+die (Umwelt)verschmutzung *pollution*  
+erhalten *to conserve*  
+recyceln  *to recycle*  
+verbrauchen *to consume*  
+zerst&ouml;ren  *to destroy  
+still *quiet*  
+trinkbar *drinkable*  
+Umweltfreundlich *environmentally freindly*  
+wiederverwerfbar *recyclable, reusable*  
+Düngemittel *fertilizer*  
+
+Globales Erwärmungspotenzial d.h Globales Wärmepotenzial (GWP) = Global Warming Potential (IPCC)  
+Methan = 28 bis 34 GWP  
+Warmsenke des Eis = 334 Joule pro Gramm, um ein Gramm Eis zu schmelzen  
+Messgröße *a measure or metric*  
+**beschleunigen** *accelerate*  
+**Exponentielle Zunahmequote** exponential rate of increase.    
+
+Exponentielle Zunahme (*Exponential rate of increase*)  
+Lineare Zunahme (*Linear rate of increase*)  
+Geometrische Zunahme (*Geometric rate of increase*)  
+Progressiver Anstieg (*Progressive increase*)  
+Stufenweiser Anstieg (*Stepwise increase*)  
+Dekrementaler Anstieg (*Decremental increase*)  
+Logarithmische Zunahme (*Logarithmic rate of increase*)  
