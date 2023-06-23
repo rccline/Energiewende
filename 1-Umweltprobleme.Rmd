@@ -1,4 +1,4 @@
----"
+---
 author: ""
 date: ""
 output: word_document
@@ -8,14 +8,19 @@ output: word_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Umweltprobleme
+
+<br> 
+
 ### von Robert Cline
 UNM 100684786  
-F&uuml;r:  Deutsche Sommerschule von New Mexico - Sprachkurs B2    
+F&uuml;r:  Deutsche Sommerschule von New Mexico  
+Kurs:  Energiewende  
 Lehrer:  Jason Wilby
 F&auml;llig:  23.06.2023 
 
 
-## Umweltprobleme
+
 
 
 ## Definition von 3 der 5 Umweltproblemen ^[die Fleischindustrie; Die Abholzung; Die Eisschmelze; Die Insdustrieverschmutzng; Der Atomm&uuml;ll]
