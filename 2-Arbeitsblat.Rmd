@@ -1,0 +1,98 @@
+---
+title: "2-Umwelt-Probleme"
+author: "Robert Cline"
+date: "2023-06-24"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+### [Treibhausgase erklärt](https://www.ardalpha.de/wissen/umwelt/klima/klimawandel/treibhausgase-gase-kohlendioxid-methan-klimawandel-100.html)
+ 
+### [Video: Hamburg versinkt im Meer](https://www.stern.de/video/climate-central-animation--wenn-hamburg-im-meer-versinkt-6545840.html)
+
+## I. Umwelt-Lesetexte verarbeiten:  
+
+1.	Lesen: Umweltprobleme – Lies bitte den Artikel für deine Gruppe (siehe Canvas und Links unten) 2-3 Male durch; danach solltet ihr die Arbeitsblatt-Aufgaben (unten) auch machen!  
+
+2.	Lies den Text einmal schnell durch, dann ein zweites Mal genauer!  
+
+
+
+
+### [**Die Eischmelze**](https://www.ardalpha.de/wissen/umwelt/klima/klimawandel/gletscherschmelze-weltweit-gletscher-schmelzen-klimawandel-100.html)  
+
+* [World Glacier Monitoring system](https://wgms.ch/)  
+* Eisverlust merklich an – auf etwa *335 Milliarden Tonnen* im Jahr  
+* Langfristigen Masseverlust - Schmelzen lässt sich nicht mehr aufhalten  
+* Die Auswirkungen fallen regional unterschiedlich aus  
+* Gletscher als Wasserspeicher durch Vereisung anlagern und Tauvorgängen können großen Einfluss auf die lokale Wasserversorgung.
+  - Asien und Südamerika haben trockene Umland wo auf Schmelzwasser angewiesen ist.  
+* Schrumpfende Gletscher als Gefahr  
+  - Gletzer Tauvorgäng sammelt sich mehr Wasser in tiefer liegenden Gletscherseen an.
+  - Wenn die Wände einstürzen das geissendes Wasser kann in Talen katastrophale Überschwemmungen auslösen.    
+  - Wenn Permafrostboden auftau könnten Bakterien und Pathogene aus dem Permafrost lösen und so ins Trinkwasser gelangen.  
+* Gletscherschmelze führt langfristig zu Trockenheit  
+  - Wenn die Gletscher schmelzen, verlieren sie mehr Wasser. Langfristig fließt immer weniger Wasser von ihnen ab.  
+  - Rund zwei Milliarden Menschen weltweit auf Gletscherwasser angewiesen sind.
+  - Im Himalaja sind rund 800 Millionen Menschen an Gletschersmeltz abh&auml;ngig.  
+  - Benutzung: f&uuml;r Bewässerung, Wasserkraft, Landwirtschaft und Industriebetrieben  
+* Meeresspiegel steigt durch die Gletscherschmelze  
+  - Schmelzende Gletscher machen zwischen 25 und 30 Prozent vom Anstieg des globalen Meeresspiegels aus.  
+  - Das entspricht einem Millimeter im Jahr.  
+* Eisverluste sind nicht reversibel  
+  - Bis Ende des Jahrhunderts werden zwei Drittel der heute existierenden Gletscher weggeschmolzen sein.  
+  - das entrpricht einem um 115 Millimeter (4.53 inches) erhöhtem Meeresspiege
+  
+
+Wenn ihr Eis schneller schmilzt als früher, sammelt sich immer mehr Wasser in tiefer liegenden Gletscherseen an. Irgendwann baut sich dort ein so hoher Druck auf, dass die Wände aus Geröll einstürzen und sich das Wasser ins Tal ergießt. Das kann katastrophale Überschwemmungen auslösen.
+
+#### [Die Abholzung](https://www.abenteuer-regenwald.de/wissen/abholzung)  
+
+
+#### [Die Industrieverschmutzung](https://www.planet-wissen.de/natur/umwelt/umweltverschmutzung/pwieindustriellerevolutionundumweltverschmutzung100.html)  
+
+#### [Der Atommüll](https://www.planet-wissen.de/technik/energie/atomenergie/pwieproblematommuell100.html)  
+
+#### [Die Fleischindustrie](https://www.dw.com/de/fleischindustrie-milliardenschwer-und-unter-druck/a-53877364)  
+
+## Arbeitsblatt:
+ 
+* **Vokabular**:  Finde bitte 7 neue Vokabularwörter, die du für das Verständnis des Textes wichtig findest. Schreib diese Wörter bitte auf:
+
+  - *Berggletscher* Glaziers
+  - *Gletschersmeltzer; Gletscherschwund*  
+  - *angewiesen* (reliant, dependent)  
+  - schrumpfen immer schneller: In den vergangenen Jahren 
+  - *schwand/schwinden*  
+  - *spürbar/Auff&auml;llig und messbar* (noticible and measurable)    
+  - ***Vorstöße** sind aber regional und **zeitlich beschränkt*** - (advances are regional and temorary)  
+  - ***betroffenen** Regionen - (effected regions)  
+  - Jedes **Zehntelgrad** helfe  
+  - Süßwasserspeicher - (Fresh water reservoir/storage)  
+  - *Vereisungz* anlagern und in langsamen *Tauvorgäng* (freezing & melting)  
+  - Bewässerung (irrigation)  
+  - Wasserkraft (Hydropower) 
+  - Gesamtfläche (area)  
+  - beschleunigt (accelerated)    
+  - die Wände aus Geröll einstürzen (the walls out of debris break)  
+  - der Meersspiegel (sea surface)
+
+
+## II. Satzebene:  
+Finde einen Satz, den du nicht (oder nicht ganz) verstehst. Schreib diesen Satz bitte auf:  
+
+***Ich verstehe nicht die benutzung von "so" in:  *ein so hoher* ***  
+Irgendwann baut sich dort *ein so hoher* Druck auf, dass die Wände aus Geröll einstürzen und sich das Wasser ins Tal ergießt. 
+
+
+## III. Paraphrase:  
+Versuch, die wichtigen Punkte von dem Text in deinen eigenen Worten zu schreiben:
+[auf der Rückseite ist OK]
+
+Die weltweit Eisschmelze ist ein wichtiges Thema in kontext der Globalw&auml;rmung.  Die Gletscher sind eine Wasserquelle f&uuml;r Bewässerung,Wasserkraft, Trinkwasser und Industriewasser.  Rund zwei Millarden Menschen sind an Gletschersmeltz abhangig.  Gletscherschmelze führt langfristig zu Trockenheit als Regionen weiniger Smelzwasser bekommen. Als führt der stieg des Meersspiegels, ganze Metropole werden verschwenden.  
+
+
