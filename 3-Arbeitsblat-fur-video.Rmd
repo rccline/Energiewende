@@ -1,0 +1,77 @@
+---
+title: ""
+author: ""
+date: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readxl)
+library(tidyverse)
+library(gt)
+
+```
+
+
+### von Robert Cline
+UNM 100684786  
+F&uuml;r:  Deutsche Sommerschule von New Mexico  
+Kurs:  Energiewende  
+Lehrer:  Jason Wilby
+F&auml;llig:  26.06.2023 
+
+## Arbeitsblatt zum Video „Energiewende“:
+Bitte vor dem Anschauen des Videos diese Vokabularwörter definieren:
+
+```{r echo=FALSE}
+
+wortschatz <- read_excel("data/wortschatz.xlsx")
+
+gt(wortschatz)
+```
+
+
+
+
+<br> 
+
+### Das Video: [Energiewende](https://www.youtube.com/watch?v=rhz5uLuN5zU)  
+
+
+### Schau das Video einmal einfach so an! Was sind die Themen im Video?  
+
+1. **Die Themen sind**: 
+  - Energiepolitik 
+  - Wirtshaft  
+  - &Ouml;kologie  
+  
+2.	Lies nun die Fragen unten und merke Information, die du brauchen wirst!
+3.	Schau das Video nun noch 2-3 Male an und beantworte dann die Fragen unten!
+
+## Fragen zum Video:
+
+### Bitte beantworte jede Frage mit 1-2 Sätzen!  
+
+1.	**Welche drei Bereiche spielen in der Energiewende eine Rolle?**  
+* Mobilit&auml;at  
+* W&auml;rme  
+* Stromversorgung  
+  
+2.	**Bis wann wollte man alle Atomkraftwerke in Deutschland abschaffen?**  
+Im 2020 wurde alle Atomkraftwerke abgeschaffen**
+
+3.	**Welches Ziel will man bis zum Jahr 2050 erreichen?**     
+
+Das Ziel ist bis 2050 den gesamtem Strombedarf zum 60% mit erneuebaren Energie abzudecken.  
+
+
+4.	Welche andere Strategien werden im Video angesprochen, die Klimaziele der Energiewende zu erreichen?  
+
+* Wegen Solar und Windkraft wetterabh&auml;ngig sind:  
+  - müssen neue regenerativer Kraftwerk gebaut werden.  
+  - müssen Pumpspeicherkraftwerke gebaut werden.    
+* Weil der Enegievergrauch so hoch ist:  
+  - dauerhaften regenerativer Kraftwarke ausgebaut werden ^[permanent regenerative power plants [to be] expanded]   
+  - müssen moderne fossile Karaftwerke gebaut werden  
+  - alte Ger&auml;rate mit hohem Energieverbrauch mussen mit dem mit geringen Verbrauch ersetz werden. 
