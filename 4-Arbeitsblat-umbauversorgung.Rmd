@@ -1,0 +1,108 @@
+---
+title: "Untitled"
+author: "Robert Cline"
+date: "2023-06-27"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE) 
+
+library(gt)
+library(tidyverse)
+library(readxl)
+```
+
+
+### von Robert Cline
+UNM 100684786  
+F&uuml;r:  Deutsche Sommerschule von New Mexico  
+Kurs:  Energiewende  
+Lehrer:  Jason Wilby
+F&auml;llig:  27.06.2023 
+
+
+
+
+Arbeitsblatt: Energiewende Lesetext
+Bitte lies den Text einmal schnell durch, dann ein zweites Mal langsam und detailliert durch!
+Vokabular:
+Finde bitte midenstens 10 neue Wörter, die du gern lesen würdest und trage sie in diese Tabelle mit Definitionen:
+Wort:	Definition:
+	`
+
+	
+	
+## Arbeitsblatt: Energiewende Lesetext
+Bitte lies den Text einmal schnell durch, dann ein zweites Mal langsam und detailliert durch!
+
+
+Vokabular:
+Finde bitte midenstens 10 neue Wörter, die du gern lesen würdest und trage sie in diese Tabelle mit Definitionen:
+
+	
+
+```{r echo=FALSE}
+
+wortschatz <- read_excel("data/4wortschatz.xlsx")
+
+gt(wortschatz)
+```	
+	
+<br>
+
+## Lesefragen:
+
+Bitte beantworte diese Fragen mit kurzen Antworten (1-2 Sätze pro Frage): 
+
+
+Absatz 1: Was soll die Energiewende schaffen? 
+
+* Die Energie wende soll kosteng&uuml;nstig und nachhaltige Energieversorgung'  
+* neue Gesch&auml;ftsfelder er&ouml;ffnen.  
+* neue Jobs und Wachstum ansto&szlig;en.  
+* unabh&auml;ngig von &Ouml;l und Gas vom Ausland werden.
+
+
+
+Absatz 2: Welche umweltfreundliche Energien werden erwähnt? (Energie Tr&auml;ger)
+
+* Wind  
+* Sonne  
+* Wasserkraft  
+* Biomasse  
+* Geothermie  
+
+
+Absatz 3: Welche neuen Gesetze gibt es für die Energiewende?
+
+* *Stromeinspiesungsgesetz* ^[*Stromeinspiesungsgesetz*: Strom Feedin-tarif law; Garantierte Preise für Betreiber erneuerbarer Energien] 
+* *Erneuerbare-Energien-Gesetz* (EEG)  
+  - garantierte Einspeisetarife  
+  - vorrangige Einspeisng ins Netz (Priority feeding)  
+  - Verteilung der entstehended Mehrkosten &uuml;ber ein Umlagesystem.^[entstehenede Mehrkosten uber Umlagesystem: distribution of the incurred additional costs through a surcharge system]
+
+Absatz 4: Wie viele Jobs kreiert die Energiewende?  
+
+* Mit hoheren Nachfagen bekommen mehr als 330.000 Arbeitspl&auml;tze.
+
+Absatz 5: Welche erneuerbare Stromquelle ist am wichtigsten?  
+
+* Windkraft.  
+  - Srom aus Windkraft is 4,7 und 8,4 Cent pro Kilowattstunde.  
+
+Absatz 6: Keine Frage
+
+Absatz 7: Welches Treibhausgas trägt am meisten zum Klimawandel bei?  
+
+* Kohlendioxide tr&auml;gt am meisten um Klimawandel bei.  
+  - Ein drittle aller Treibhausgase werden von Kraftwerken ausge&szlig;tosen
+
+* Ziele:  
+  - Natur und Wirtschaft auf ein nachhaltiges Ma&szlig; zu begrenzen.  
+  - IPCC darf sich die Erde um h&oumklchstens zwei Grad C.
+	
+	
+	
+	
+	
