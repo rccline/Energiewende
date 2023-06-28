@@ -1,0 +1,83 @@
+---
+title: "CO2 Speicherung"
+author: ""
+date: ""
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+### von Robert Cline
+UNM 100684786  
+F&uuml;r:  Deutsche Sommerschule von New Mexico  
+Kurs:  Energiewende  
+Lehrer:  Jason Wilby
+F&auml;llig:  Do 29.06.2023 
+
+
+
+
+* Ein Podcast von Bayern 2
+* Ein Interview mit Professor Frank Schilling, Geowissenschaftler am Karlsruher Institut für Technologie.
+
+* Zeit 2009 hat sich Die deutschepolitik gegen CO2 Speichern.    
+* Aber wenn die Klimaziele einhalten wollen, brauchen CSS speichern
+
+
+
+* Es ist nicht nur CO2 aus Kohle oder aus Gas aber von Chemieindustrie auch, wie Betonherstellung (Konkrete).
+
+01:20
+
+* Was ist fur CO2 Speichern bebraucht?  
+* Wir brauchen Lokation: 
+* d.h.  Gesteine in einer entsprechender Tiefe, die über 800 bis 1200 Meter sind in die man CO2 einlagern kann. 
+* Die Gesteine die wir gut kennen sind Sandsteine order auch Karbonate. 
+* Wir kennen die Eigenschaften dieser Steine aus Erdölförderung oder Erdgasförderung.
+* Die CO2 Speicherung wird nicht in Kaverne aber in Porenraum dieser Gesteine, die uber 800 Meter Teife liegen.  
+* Die Formationen liegt im Offshore-Beriech und auch auf dem Festland.  
+
+02:47
+
+* Es gibt Testprojekte in Norwegen.  
+* Die porösen Formationen in den wir CO2 hinunterpupen, brauchen auch 
+  - Ein oder Zwei Erdschichtern die für CO2 undurchlässig sind  
+  - Der Untergrund ist gut erforscht. Durch Bohrungen und 3D-Seismik-Untersuchungen verstehen wir die Kontinuität der undurchlässigen Erdschichten und den Porenraum der Zielformation.
+  
+* Vor der Injektion von CO2 müssen die Eigenschaften der geologischen Formationen erkundet und verstanden werden.  
+* Langfristig kann CO2 mit Karbonaten und Mineralien reagieren, um das CO2 zu binden.
+
+04:50
+
+* Studien zeigen, dass es große Bereiche gibt, in denen 150 Milliarden Tonnen CO2 gespeichert werden können. Das ist um ein Vielfaches mehr als das, was wir benötigen.
+
+* Dr. Schilling erklärt, dass wir in 5 Jahren, wie er es nennt, negative Emissionen benötigen werden. Das bedeutet, wir werden mehr CO2 aus der Atmosphäre entfernen müssen, als wir emittieren, um den Herausforderungen des Klimawandels zu begegnen.
+
+
+06:07
+
+### Discussions Fragen:
+
+1. Wird Deutschland der CO2-Sequestrierung zustimmen?   
+2. Warum war Deutschland bisher zurückhaltend bei der CO2-Speicherung?   
+3. Gibt es Risiken bei der CO2-Sequestrierung?
+
+
+
+## Wortschatz  
+  
+Klimaziele (climate goals)  
+Betonherstellung (concrete) 
+Eigenschaften (characteristics)   
+Erdölförderung (Oil exploration)  
+Erdgasförderung (gas/methane exploration)  
+undurchlässig Erdschichtern (impermeable geological formations/layers)   
+Herausforderungen (challenges)   
+negative Emissionen (d.h. to remove more CO2 from the atmosphere than is added)   
+Lastwagen (truck)   
+die Hydraulik (hydrolic)
+Vibrationsquelle (vibration source)  
+Geophoneempf&auml;nger (Geophone receiver)  
+Sequestrierung == Speicherung
+
