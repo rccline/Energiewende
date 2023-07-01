@@ -1,0 +1,52 @@
+---
+title: ''
+author: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(gt)
+library(tidyverse)
+library(readxl)
+```
+
+	
+
+
+
+### von Robert Cline
+UNM 100684786  
+F&uuml;r:  Deutsche Sommerschule von New Mexico  
+Kurs:  Energiewende  
+Lehrer:  Jason Wilby
+F&auml;llig:  So 01.07.2023 
+
+## Arbeitsblatt: Sonnenenergie
+[PDF & hier](https://www.ardalpha.de/wissen/umwelt/nachhaltigkeit/sonnenenergie-sonne-solarthermie-eneuerbare-energien-100.html)  
+
+
+Bitte lies den Text einmal schnell durch, dann ein zweites Mal langsam und detailliert durch!
+
+## Vokabular:  
+
+#### Finde bitte midenstens 10 neue Wörter, die du gern lesen würdest und trage sie in diese Tabelle mit Definitionen:
+```{r echo=FALSE}
+
+wortschatz6 <- read_excel("data/6wortschatz.xlsx")  
+
+wortschatz <- wortschatz6 %>% 
+  filter(aufgabe == 6) %>% 
+  select(-aufgabe)
+
+gt(wortschatz)
+```	 
+
+
+## Fragen: 
+
+#### Bitte notiere Fragen zum Text:
+
+1. Warum "etwa?"  *Das tun etwa Sonnenkollektoren, die auf vielen Dächern montiert sind*.
+
