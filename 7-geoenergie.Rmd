@@ -1,0 +1,65 @@
+---
+title: ""
+author: ""
+date: ""
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(gt)
+library(tidyverse)
+library(readxl)
+```
+
+## Geoenergie  
+### von Robert Cline
+UNM 100684786  
+F&uuml;r:  Deutsche Sommerschule von New Mexico  
+Kurs:  Energiewende  
+Lehrer:  Jason Wilby
+F&auml;llig:  03.07.2023 
+
+**Arbeitsblatt: Geoengineering  
+
+[Text findet ihr hier](https://learngerman.dw.com/de/wie-geoengineering-die-erde-k%C3%BChlen-soll/l-58126341/lm)
+Bitte lies den Text einmal schnell, dann ein zweites Mal langsam und detailliert durch!
+
+
+
+### Wie Geoengineering die Erde kühlen soll
+
+Schwefel in der Luft, Schaum auf dem Meer oder weiß gestrichene Häuser? Mit Geoengineering soll der Klimawandel gestoppt und die Erde gekühlt werden. Ist das menschlicher Größenwahn – oder kann das gelingen?
+
+„Zweifellos ist der Mensch in der Lage, den Planeten künstlich zu kühlen“, glaubt Professor David Keith von der Universität Harvard. Hat er recht, oder ist das menschlicher Größenwahn? Die Grundidee ist immer gleich: Durch eine stärkere Reflektion des Sonnenlichts soll sich die Erde weniger erwärmen.
+
+Umsetzen will man die Idee mit Geoengineering. Dabei werden vor allem drei Möglichkeiten diskutiert.   
+
+* Idee Nummer eins: Man macht es so wie die Vulkane:   
+  - Wenn sie ausbrechen, wird es auf der Erde kühler. Diesen Effekt kann man auch erreichen, indem   
+  - man in 15 bis 50 Kilometern Höhe lichtreflektierende Schwefel-Aerosole in die Luft bringt.   
+  - Einige Wissenschaftler warnen allerdings vor den Folgen für die Umwelt.
+
+* Idee Nummer zwei: Man verteilt künstlichen, hellen Schaum auf dem Meer.   
+  - Denn das dunkle Meerwasser reflektiert nur wenig Licht, speichert aber viel Wärme.   
+  
+* Idee Nummer drei: Man streicht in den Städten die Häuser und Bürgersteige weiß. Diese Methode ist aus der Praxis bekannt, denn in der afrikanischen, arabischen und südeuropäischen Architektur gibt es sie schon lange. Der Vorteil: Sie ist nicht umweltschädlich.
+
+Man hofft, dass die Erde mit diesen Methoden 0,5 bis ein Grad gekühlt werden kann. Wissenschaftler streiten aber noch darüber, ob Geoengineering wirklich die richtige Lösung ist. In einem Punkt sind sie jedoch alle einer Meinung: *Die Treibhausgasemissionen müssen so schnell wie möglich gesenkt werden*.
+
+* Außerdem müssen auf Dauer Wege gefunden werden, sich an den Klimawandel anzupassen, denn Geoengineering allein wird ihn nicht stoppen können.  
+
+## Vokabular:  
+
+#### Finde bitte midenstens 10 neue Wörter, die du gern lesen würdest und trage sie in diese Tabelle mit Definitionen:
+```{r echo=FALSE}
+
+wortschatz6 <- read_excel("data/6wortschatz.xlsx")  
+
+wortschatz <- wortschatz6 %>% 
+  filter(aufgabe == 7) %>% 
+  select(-aufgabe)
+
+gt(wortschatz)
+```	 
